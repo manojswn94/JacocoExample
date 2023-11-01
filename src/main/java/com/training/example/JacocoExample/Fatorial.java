@@ -1,3 +1,4 @@
+package com.training.example.JacocoExample;
 public class Fatorial {
 
     public int resultadoFatorial(int num){

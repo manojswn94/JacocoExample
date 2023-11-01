@@ -1,3 +1,6 @@
+package com.training.example.JacocoExample;
+
+
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

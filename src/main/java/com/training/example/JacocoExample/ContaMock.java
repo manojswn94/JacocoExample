@@ -1,3 +1,4 @@
+package com.training.example.JacocoExample;
 public class ContaMock {
     private double saldo;
 

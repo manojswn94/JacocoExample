@@ -1,3 +1,5 @@
+package com.training.example.JacocoExample;
+
 import java.util.*;
 
 public class BigBrother {

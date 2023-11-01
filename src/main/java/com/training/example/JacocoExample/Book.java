@@ -1,3 +1,4 @@
+package com.training.example.JacocoExample;
 public class Book {
 
     private String title = "Today is the day";

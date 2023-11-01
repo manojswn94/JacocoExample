@@ -1,3 +1,4 @@
+package com.training.example.JacocoExample;
 public class Absoluto {
     public int retornaValorAbsoluto(int valor){
         int res = valor;
